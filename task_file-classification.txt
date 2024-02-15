@@ -1,0 +1,9 @@
+Test task for 3 hours of work.
+You will find 20 files in the link. Each page needs to be labeled separately by the following classes:
+
+- RFA - keywords: Request for Authorization, RFA, UR, Utilization Review, Peer Review, DWC, Doctor 1st report, Doctor First Report, DWC FORM, 5021;
+- Medical Records - keywords: Progress Notes, Medical records, Objective, Notes, Exam, Findings, PR2;
+- IMR - keywords: IMR, IME, QME (Independent Medical Review/Evaluation or Qualified Medical Evaluator/Evaluation);
+- Fax - keywords: Fax, Fax Form.
+
+You should explain why you have assigned each page to a particular class. There are documents among the files that do not belong to any of those classes. If you manage to identify them, please, clarify why you think so.Save labels and explanations in any format you choose.
